@@ -6,10 +6,10 @@
   </head>
   <body>
     <p><em>Ali Express sensors and plates.</em></p><br/>
-    <a href="https://www.aliexpress.com/item/1005006446406795.html?spm=a2g0o.order_list.order_list_main.4.306f1802OB206m" target="_blank">
+    <a href="https://a.aliexpress.com/_EHvLv4R" target="_blank">
       <img width="505" alt="Aliexpress Link" src="https://github.com/Waterbrain/stles/assets/5563436/1524ffec-0433-4d03-a2f1-032fde6dc983" />
     </a><br/>
-    <a href="https://www.aliexpress.com/item/1005006446406795.html?spm=a2g0o.order_list.order_list_main.4.306f1802OB206m" target="_blank">
+    <a href="https://a.aliexpress.com/_EyVKmN5" target="_blank">
       <img width="505" alt="Captura uno" src="https://github.com/Waterbrain/stles/assets/5563436/b4f3e8bc-154a-4299-acfd-c91e5a78551c" />
     </a><br/>
     <a href="https://www.aliexpress.com/item/1005006446406795.html?spm=a2g0o.order_list.order_list_main.4.306f1802OB206m" target="_blank">
